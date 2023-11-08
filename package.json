@@ -1,8 +1,13 @@
 {
-  "name": "tsoding-theme",
-  "displayName": "tsoding theme",
-  "description": "",
-  "version": "0.0.1",
+  "name": "tsoding-emacs-theme",
+  "displayName": "tsoding emacs theme",
+  "description": "My recreation of tsoding's emacs theme",
+  "version": "1.0.0",
+  "publisher": "cofeek-codes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cofeek-codes/tsoding-theme"
+  },
   "engines": {
     "vscode": "^1.82.0"
   },

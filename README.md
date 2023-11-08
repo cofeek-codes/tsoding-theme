@@ -1,16 +1,19 @@
-# tsoding-theme README
+# Tsoding Theme for vscode
 
-## Working with Markdown
+i liked [tsoding's]() theme so much i've recreated it
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![](./img/theme.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### Tsoding's theme for emacs [here](https://github.com/cofeek-codes/emacs-dotfiles/blob/main/tsoding-theme.el)
 
-## For more information
+### BTW:
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- icon theme - [Catppuccin Mocha](https://github.com/catppuccin/vscode-icons)
+- i know that there is already a theme for vscode, but i think that my version is closer to source and more comfortable to me, maybe you will find it suitable too
+- recommend you to have
 
-**Enjoy!**
+```json
+  "editor.cursorStyle": "block",
+```
+
+in your `settings.json`
