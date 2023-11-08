@@ -1771,7 +1771,8 @@
         "support.type.property-name",
         "entity.name.type",
         "meta.return-type",
-        "entity.name.class"
+        "entity.name.class",
+        "keyword.control.directive"
       ],
       "settings": {
         "foreground": "#949bb0"

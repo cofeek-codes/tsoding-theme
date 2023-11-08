@@ -2,7 +2,15 @@
   "name": "tsoding-emacs-theme",
   "displayName": "tsoding emacs theme",
   "description": "My recreation of tsoding's emacs theme",
-  "version": "1.0.0",
+  "author": "cofeek-codes",
+  "version": "1.0.1",
+  "keywords": [
+    "theme",
+    "tsoding",
+    "emacs"
+  ],
+  "icon": "img/icon.png",
+  "license": "MIT",
   "publisher": "cofeek-codes",
   "repository": {
     "type": "git",
